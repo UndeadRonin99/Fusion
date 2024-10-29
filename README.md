@@ -70,11 +70,11 @@ Your data may be stored on servers located outside of South Africa, specifically
 
 Thank you for using Fusion by Techtitans. This policy outlines what happens to your data when you delete or uninstall the Fusion app from your device.
 
-1. **Uninstalling the Application**
+### 1. **Uninstalling the Application**
    - **Stored Data on Device**: Any locally stored data, such as saved recipes or offline content, will be removed from your device.
    - **Cloud-Stored Data**: Data saved to your Fusion account, such as your profile information, saved recipes, and preferences, will remain securely stored on our servers even after the app is deleted from your device.
 
-2. **Accessing Your Data After Deletion**
+### 2. **Accessing Your Data After Deletion**
    - Uninstalling the app does not delete your Fusion account or data stored in the cloud. If you choose to reinstall the app and log back in, your saved data (such as your profile, saved recipes, and shopping lists) will be accessible again.
 
 # Data Deletion Policy
@@ -83,13 +83,13 @@ Thank you for using Fusion by Techtitans. This policy outlines what happens to y
 
 Thank you for using Fusion by Techtitans. This policy outlines what happens to your data when you delete or uninstall the Fusion app from your device.
 
-1. **Permanently Deleting Your Data**
+### 1. **Permanently Deleting Your Data**
    - If you would like to permanently delete all data associated with your Fusion account, you must delete your account within the app before uninstalling it. Follow these steps:
      - Go to Settings in the Fusion app.
      - Select Delete Account and confirm your choice.
    - This action will permanently delete your account and all associated data from our servers, ensuring that no information is retained after app deletion.
 
-2. **Contact Us**
+### 2. **Contact Us**
 
 If you have any questions or concerns regarding this Privacy Policy or your privacy rights, please contact us at: [techtitans0907@gmail.com](mailto:techtitans0907@gmail.com)
 
