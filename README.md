@@ -1,3 +1,8 @@
+## Table of Contents
+
+1. [Privacy Policy](#Privacy-Policy-for-Fusion)
+2. [Application Deletion Policy](#Application-Deletion-Policy)
+3. [Data Deletion Policy](#Data-Deletion-Policy)
 # Privacy Policy for Fusion
 
 ## Effective date: 29 October 2024
@@ -59,7 +64,32 @@ We prioritize the security of your data and take the following measures to prote
 
 Your data may be stored on servers located outside of South Africa, specifically in Firebase’s Southeast Asia regional servers. We ensure that any such transfers comply with international privacy standards to protect your information.
 
-### 8. Contact Us
+# Application Deletion Policy
+
+## Effective date: 29 October 2024
+
+Thank you for using Fusion by Techtitans. This policy outlines what happens to your data when you delete or uninstall the Fusion app from your device.
+
+1. **Uninstalling the Application**
+   - **Stored Data on Device**: Any locally stored data, such as saved recipes or offline content, will be removed from your device.
+   - **Cloud-Stored Data**: Data saved to your Fusion account, such as your profile information, saved recipes, and preferences, will remain securely stored on our servers even after the app is deleted from your device.
+
+2. **Accessing Your Data After Deletion**
+   - Uninstalling the app does not delete your Fusion account or data stored in the cloud. If you choose to reinstall the app and log back in, your saved data (such as your profile, saved recipes, and shopping lists) will be accessible again.
+
+# Data Deletion Policy
+
+## Effective date: 29 October 2024
+
+Thank you for using Fusion by Techtitans. This policy outlines what happens to your data when you delete or uninstall the Fusion app from your device.
+
+1. **Permanently Deleting Your Data**
+   - If you would like to permanently delete all data associated with your Fusion account, you must delete your account within the app before uninstalling it. Follow these steps:
+     - Go to Settings in the Fusion app.
+     - Select Delete Account and confirm your choice.
+   - This action will permanently delete your account and all associated data from our servers, ensuring that no information is retained after app deletion.
+
+2. **Contact Us**
 
 If you have any questions or concerns regarding this Privacy Policy or your privacy rights, please contact us at: [techtitans0907@gmail.com](mailto:techtitans0907@gmail.com)
 
